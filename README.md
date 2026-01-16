@@ -1,8 +1,5 @@
 # Tableau-exercises
 
-いいですね！GitHubのREADME向けに、そのまま使える形でまとめました👇
-（丁寧・就活ポートフォリオ向けトーンです）
-
 ---
 
 ## 📊 Tableau 演習まとめ

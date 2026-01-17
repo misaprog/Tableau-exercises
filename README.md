@@ -24,7 +24,7 @@
 
 * 時系列データの推移を可視化
 * 期間別の変化や傾向を直感的に把握できる設計
-* 
+ 
 <img width="1320" height="823" alt="スクリーンショット 2026-01-16 132150" src="https://github.com/user-attachments/assets/3c197942-e5d6-4225-89ea-0b3a9f2250b6" />
 
 ---
